@@ -28,11 +28,17 @@ require (
 require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/felixge/httpsnoop v1.0.3 // indirect
 	github.com/godbus/dbus/v5 v5.0.4 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
+	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
+	github.com/russross/blackfriday/v2 v2.1.0 // indirect
+	github.com/tc-hib/go-winres v0.3.1 // indirect
+	github.com/tc-hib/winres v0.1.6 // indirect
 	github.com/tevino/abool v1.2.0 // indirect
+	github.com/urfave/cli/v2 v2.3.0 // indirect
 	github.com/wzshiming/commandproxy v0.2.0 // indirect
 	github.com/wzshiming/emux v0.2.1 // indirect
 	github.com/wzshiming/httpproxy v0.5.4 // indirect
@@ -45,6 +51,7 @@ require (
 	github.com/wzshiming/trie v0.1.1 // indirect
 	github.com/xtaci/smux v1.5.16 // indirect
 	golang.org/x/crypto v0.16.0 // indirect
+	golang.org/x/image v0.0.0-20210220032944-ac19c3e999fb // indirect
 	golang.org/x/net v0.10.0 // indirect
 	golang.org/x/sync v0.5.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
